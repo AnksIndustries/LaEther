@@ -1,0 +1,1 @@
+word=HELLO function=GREET alt=HI|HEY|WHY

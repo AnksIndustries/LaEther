@@ -1,0 +1,17 @@
+word=HELLO function=GREET|START|STOP|PAUSE alt=HI
+word=NEW function=SPEAK(NEW) alt=NONE
+word=WHAT function=ASK alt=
+word=ARE function=ASK alt=
+word=YOU function=ASK alt=
+word=DOING function=ASK alt=
+word=WORLD function=ASK alt=
+word=IS function=ASK alt=
+word=YOUR function=ASK alt=
+word=NAME function=ASK alt=
+word=EXIT function=ASK alt=
+word=ANKIT function=ASK alt=
+word=HOW function=ASK alt=
+word=HI function=ASK alt=
+word=EVERYBODY function=ASK alt=
+word=ETHER function=ASK alt=
+word=U function=ASK alt=
